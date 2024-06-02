@@ -1,4 +1,4 @@
-<!-- resources/views/show.blade.php -->
+
 
 <!DOCTYPE html>
 <html>

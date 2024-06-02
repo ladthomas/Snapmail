@@ -1,6 +1,6 @@
 <?php
 
-// app/Mail/MessageNotification.php
+
 
 namespace App\Mail;
 
